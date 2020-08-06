@@ -21,3 +21,11 @@ function increment(x){
 function decrement(x){
   return x--
 }
+
+function makeInt(x) {
+  return parseInt(x)
+}
+
+function preserveDecimal(x){
+  return parseFloat(x)
+}
