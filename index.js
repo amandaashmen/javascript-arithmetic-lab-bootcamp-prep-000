@@ -17,3 +17,7 @@ function divide(x,y){
 function increment(x){
   return x++
 }
+
+function decrement(x){
+  return x--
+}
